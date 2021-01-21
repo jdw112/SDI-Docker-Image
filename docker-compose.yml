@@ -1,0 +1,24 @@
+# docker-compose down && docker-compose up -d web && docker-compose build && docker-compose down
+
+version: "3"
+services:
+  web:
+    image: nginx
+    volumes:
+      - ./src-images:/usr/share/nginx/html:ro
+    ports:
+      - "8080:80"
+
+  sdi:
+    build:
+      context: .
+      args:
+        - DOCKERHOST=${HOSTNAME}
+    image: sdi:7.2.0.6
+    depends_on:
+      - web
+    links:
+      - web
+
+volumes:
+  src-images:
