@@ -1,0 +1,8 @@
+*.zip
+*.tar
+*.tgz
+README.md
+.git
+.previous*
+.test*
+.src*

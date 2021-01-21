@@ -1,0 +1,8 @@
+*.tar.gz
+*.tar
+*.zip
+*.tgz
+*.previous
+!src-images/CustomInstallRsp.txt
+src-images/**
+.DS_Store

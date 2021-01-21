@@ -2,9 +2,6 @@
 
 Docker image of IBM Security Directory Integrator CE &amp; Server
 
-Git Repo - https://github.ibm.com/IAM-L2/Docker-SDI7.2
-
-
 ----------
 
 ## **Building**
