@@ -19,12 +19,14 @@ Docker Hub automated build will not work as these packages are not included in t
 ----------
 
 ## ** Build Video**
-<iframe src="https://ibm.ent.box.com/embed/s/9c8ypywo04fr3u3tni1tajqaezjd4mmz?sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+[![Build video](https://stackify.com/wp-content/uploads/2019/07/docker-build-881x441.jpg)](https://drive.google.com/file/d/1J5-GeYtMjTD3bcpLJkHw55oqQDUP45gT/view?usp=sharing)
+
 
 ----------
 
 ## ** Pull Video**
-<iframe src="https://ibm.ent.box.com/embed/s/ynnizpoqapldhc0bcgrjw6a39eqkdg9c?sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+[![Pull video](https://i.ytimg.com/vi/ath6hh3xJO4/maxresdefault.jpg)](https://drive.google.com/file/d/1ZIShis2CzWwNXzLYw2KxfUq3fRME00V4/view?usp=sharing)
+
 
 ----------
 
